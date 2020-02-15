@@ -1,0 +1,6 @@
+D:\Users\U212\Documents\IT кариера\Solution3\BordersOfTheType\bin\Debug\BordersOfTheType.exe.config
+D:\Users\U212\Documents\IT кариера\Solution3\BordersOfTheType\bin\Debug\BordersOfTheType.exe
+D:\Users\U212\Documents\IT кариера\Solution3\BordersOfTheType\bin\Debug\BordersOfTheType.pdb
+D:\Users\U212\Documents\IT кариера\Solution3\BordersOfTheType\obj\Debug\BordersOfTheType.csproj.CoreCompileInputs.cache
+D:\Users\U212\Documents\IT кариера\Solution3\BordersOfTheType\obj\Debug\BordersOfTheType.exe
+D:\Users\U212\Documents\IT кариера\Solution3\BordersOfTheType\obj\Debug\BordersOfTheType.pdb
