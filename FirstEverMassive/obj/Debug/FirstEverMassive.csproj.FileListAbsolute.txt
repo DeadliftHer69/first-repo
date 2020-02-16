@@ -1,0 +1,7 @@
+D:\Users\U212\Documents\IT кариера\IntroductionToMassives\FirstEverMassive\bin\Debug\FirstEverMassive.exe.config
+D:\Users\U212\Documents\IT кариера\IntroductionToMassives\FirstEverMassive\bin\Debug\FirstEverMassive.exe
+D:\Users\U212\Documents\IT кариера\IntroductionToMassives\FirstEverMassive\bin\Debug\FirstEverMassive.pdb
+D:\Users\U212\Documents\IT кариера\IntroductionToMassives\FirstEverMassive\obj\Debug\FirstEverMassive.csprojAssemblyReference.cache
+D:\Users\U212\Documents\IT кариера\IntroductionToMassives\FirstEverMassive\obj\Debug\FirstEverMassive.csproj.CoreCompileInputs.cache
+D:\Users\U212\Documents\IT кариера\IntroductionToMassives\FirstEverMassive\obj\Debug\FirstEverMassive.exe
+D:\Users\U212\Documents\IT кариера\IntroductionToMassives\FirstEverMassive\obj\Debug\FirstEverMassive.pdb
