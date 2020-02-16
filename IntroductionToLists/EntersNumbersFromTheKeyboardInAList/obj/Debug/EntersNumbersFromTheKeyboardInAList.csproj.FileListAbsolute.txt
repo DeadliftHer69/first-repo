@@ -1,0 +1,6 @@
+D:\Users\U212\Documents\IT кариера\IntroductionToLists\EntersNumbersFromTheKeyboardInAList\bin\Debug\EntersNumbersFromTheKeyboardInAList.exe.config
+D:\Users\U212\Documents\IT кариера\IntroductionToLists\EntersNumbersFromTheKeyboardInAList\bin\Debug\EntersNumbersFromTheKeyboardInAList.exe
+D:\Users\U212\Documents\IT кариера\IntroductionToLists\EntersNumbersFromTheKeyboardInAList\bin\Debug\EntersNumbersFromTheKeyboardInAList.pdb
+D:\Users\U212\Documents\IT кариера\IntroductionToLists\EntersNumbersFromTheKeyboardInAList\obj\Debug\EntersNumbersFromTheKeyboardInAList.csproj.CoreCompileInputs.cache
+D:\Users\U212\Documents\IT кариера\IntroductionToLists\EntersNumbersFromTheKeyboardInAList\obj\Debug\EntersNumbersFromTheKeyboardInAList.exe
+D:\Users\U212\Documents\IT кариера\IntroductionToLists\EntersNumbersFromTheKeyboardInAList\obj\Debug\EntersNumbersFromTheKeyboardInAList.pdb
