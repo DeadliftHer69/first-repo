@@ -1,0 +1,6 @@
+D:\Users\U212\Documents\IT кариера\IntroductionToMassives\ExcersiseTwoAboutMasifs\bin\Debug\ExcersiseTwoAboutMasifs.exe.config
+D:\Users\U212\Documents\IT кариера\IntroductionToMassives\ExcersiseTwoAboutMasifs\bin\Debug\ExcersiseTwoAboutMasifs.exe
+D:\Users\U212\Documents\IT кариера\IntroductionToMassives\ExcersiseTwoAboutMasifs\bin\Debug\ExcersiseTwoAboutMasifs.pdb
+D:\Users\U212\Documents\IT кариера\IntroductionToMassives\ExcersiseTwoAboutMasifs\obj\Debug\ExcersiseTwoAboutMasifs.csproj.CoreCompileInputs.cache
+D:\Users\U212\Documents\IT кариера\IntroductionToMassives\ExcersiseTwoAboutMasifs\obj\Debug\ExcersiseTwoAboutMasifs.exe
+D:\Users\U212\Documents\IT кариера\IntroductionToMassives\ExcersiseTwoAboutMasifs\obj\Debug\ExcersiseTwoAboutMasifs.pdb
