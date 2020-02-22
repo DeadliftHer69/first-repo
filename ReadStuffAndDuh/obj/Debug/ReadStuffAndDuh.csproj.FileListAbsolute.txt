@@ -1,0 +1,7 @@
+D:\Users\U212\Documents\IT кариера\ArraysAndLists\ReadStuffAndDuh\bin\Debug\ReadStuffAndDuh.exe.config
+D:\Users\U212\Documents\IT кариера\ArraysAndLists\ReadStuffAndDuh\bin\Debug\ReadStuffAndDuh.exe
+D:\Users\U212\Documents\IT кариера\ArraysAndLists\ReadStuffAndDuh\bin\Debug\ReadStuffAndDuh.pdb
+D:\Users\U212\Documents\IT кариера\ArraysAndLists\ReadStuffAndDuh\obj\Debug\ReadStuffAndDuh.csprojAssemblyReference.cache
+D:\Users\U212\Documents\IT кариера\ArraysAndLists\ReadStuffAndDuh\obj\Debug\ReadStuffAndDuh.csproj.CoreCompileInputs.cache
+D:\Users\U212\Documents\IT кариера\ArraysAndLists\ReadStuffAndDuh\obj\Debug\ReadStuffAndDuh.exe
+D:\Users\U212\Documents\IT кариера\ArraysAndLists\ReadStuffAndDuh\obj\Debug\ReadStuffAndDuh.pdb

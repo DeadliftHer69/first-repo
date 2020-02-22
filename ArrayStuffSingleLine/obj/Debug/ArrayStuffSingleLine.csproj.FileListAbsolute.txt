@@ -1,0 +1,6 @@
+D:\Users\U212\Documents\IT кариера\ArraysAndLists\ArrayStuffSingleLine\bin\Debug\ArrayStuffSingleLine.exe.config
+D:\Users\U212\Documents\IT кариера\ArraysAndLists\ArrayStuffSingleLine\bin\Debug\ArrayStuffSingleLine.exe
+D:\Users\U212\Documents\IT кариера\ArraysAndLists\ArrayStuffSingleLine\bin\Debug\ArrayStuffSingleLine.pdb
+D:\Users\U212\Documents\IT кариера\ArraysAndLists\ArrayStuffSingleLine\obj\Debug\ArrayStuffSingleLine.csproj.CoreCompileInputs.cache
+D:\Users\U212\Documents\IT кариера\ArraysAndLists\ArrayStuffSingleLine\obj\Debug\ArrayStuffSingleLine.exe
+D:\Users\U212\Documents\IT кариера\ArraysAndLists\ArrayStuffSingleLine\obj\Debug\ArrayStuffSingleLine.pdb

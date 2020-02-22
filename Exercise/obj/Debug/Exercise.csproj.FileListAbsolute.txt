@@ -1,0 +1,7 @@
+D:\Users\U212\Documents\IT кариера\ArraysAndLists\Exercise\bin\Debug\Exercise.exe.config
+D:\Users\U212\Documents\IT кариера\ArraysAndLists\Exercise\bin\Debug\Exercise.exe
+D:\Users\U212\Documents\IT кариера\ArraysAndLists\Exercise\bin\Debug\Exercise.pdb
+D:\Users\U212\Documents\IT кариера\ArraysAndLists\Exercise\obj\Debug\Exercise.csprojAssemblyReference.cache
+D:\Users\U212\Documents\IT кариера\ArraysAndLists\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+D:\Users\U212\Documents\IT кариера\ArraysAndLists\Exercise\obj\Debug\Exercise.exe
+D:\Users\U212\Documents\IT кариера\ArraysAndLists\Exercise\obj\Debug\Exercise.pdb
